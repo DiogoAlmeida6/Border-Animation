@@ -1,2 +1,2 @@
 # Border-Animation
-Border Animation in CSS
+3° Personal Project - Border Animation in CSS
